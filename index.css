@@ -1,0 +1,21 @@
+body {
+  padding: 0 5rem;
+  background-color: f5f5f5;
+  margin: 0 auto !important;
+  max-width: 1150px;
+}
+.flexClass {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.navLink {
+  text-decoration: none;
+  color: #000;
+}
+.buttonClass {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
